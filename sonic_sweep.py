@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+# Created by: Jeremiah Roe and Bryan Taylor
+
 import os
 import requests
 import json
